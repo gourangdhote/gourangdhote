@@ -3,11 +3,11 @@
 
 ## 📊 Projects:
 Project 1: Sales Insights (Brick and Motor Business)
- <br>-Built an interactive Power BI dashboard using structured data modeling (fact & dimension tables), relationships, and visualizations to analyze overall sales performance.<br>
- <br>-Learnings: Power Query ETL, data cleaning & transformation, star schema modeling, relationship building, dashboard design<br>
-<br>Project 2: Supply Chain Insights in FMCG Domain (In Progress)<br>
- <br>-Currently working on a Power BI project analyzing supply chain data by integrating multiple datasets, building a data model, and creating KPIs and WoW change measures for performance tracking.<br>
- <br>-Learnings: supply chain KPIs, WoW change calculations (DAX), advanced ETL, handling large datasets, performance analysis, data modeling<br>
+<br> -Built an interactive Power BI dashboard using structured data modeling (fact & dimension tables), relationships, and visualizations to analyze overall sales performance.<br>
+<br> -Learnings: Power Query ETL, data cleaning & transformation, star schema modeling, relationship building, dashboard design<br>
+Project 2: Supply Chain Insights in FMCG Domain (In Progress)
+<br> -Currently working on a Power BI project analyzing supply chain data by integrating multiple datasets, building a data model, and creating KPIs and WoW change measures for performance tracking.
+<br> -Learnings: supply chain KPIs, WoW change calculations (DAX), advanced ETL, handling large datasets, performance analysis, data modeling
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gourangdhote610) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gourang6102003@gmail.com) 
